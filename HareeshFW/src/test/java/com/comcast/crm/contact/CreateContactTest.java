@@ -15,5 +15,9 @@ public class CreateContactTest {
 		System.out.println("Delete contact");
 
 	}
+	@Test
+	public void ModifyContact() {
+		System.out.println("Modify contact");
 
+	}
 }
